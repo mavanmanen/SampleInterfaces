@@ -1,0 +1,12 @@
+C:\Users\mavan\source\repos\SampleInterfaces\SampleInterfaces.Core\bin\Debug\net7.0\SampleInterfaces.Core.deps.json
+C:\Users\mavan\source\repos\SampleInterfaces\SampleInterfaces.Core\bin\Debug\net7.0\SampleInterfaces.Core.dll
+C:\Users\mavan\source\repos\SampleInterfaces\SampleInterfaces.Core\bin\Debug\net7.0\SampleInterfaces.Core.pdb
+C:\Users\mavan\source\repos\SampleInterfaces\SampleInterfaces.Core\obj\Debug\net7.0\SampleInterfaces.Core.csproj.AssemblyReference.cache
+C:\Users\mavan\source\repos\SampleInterfaces\SampleInterfaces.Core\obj\Debug\net7.0\SampleInterfaces.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mavan\source\repos\SampleInterfaces\SampleInterfaces.Core\obj\Debug\net7.0\SampleInterfaces.Core.AssemblyInfoInputs.cache
+C:\Users\mavan\source\repos\SampleInterfaces\SampleInterfaces.Core\obj\Debug\net7.0\SampleInterfaces.Core.AssemblyInfo.cs
+C:\Users\mavan\source\repos\SampleInterfaces\SampleInterfaces.Core\obj\Debug\net7.0\SampleInterfaces.Core.csproj.CoreCompileInputs.cache
+C:\Users\mavan\source\repos\SampleInterfaces\SampleInterfaces.Core\obj\Debug\net7.0\SampleInterfaces.Core.dll
+C:\Users\mavan\source\repos\SampleInterfaces\SampleInterfaces.Core\obj\Debug\net7.0\refint\SampleInterfaces.Core.dll
+C:\Users\mavan\source\repos\SampleInterfaces\SampleInterfaces.Core\obj\Debug\net7.0\SampleInterfaces.Core.pdb
+C:\Users\mavan\source\repos\SampleInterfaces\SampleInterfaces.Core\obj\Debug\net7.0\ref\SampleInterfaces.Core.dll

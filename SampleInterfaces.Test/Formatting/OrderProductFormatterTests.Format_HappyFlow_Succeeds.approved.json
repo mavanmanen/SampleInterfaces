@@ -1,0 +1,30 @@
+﻿[
+    {
+        "Item1": {
+            "Id": 1,
+            "TimeStamp": "2023-08-24T23:18:00",
+            "ProductIds": [
+                1,
+                2,
+                3
+            ]
+        },
+        "Item2": [
+            {
+                "Id": 1,
+                "Name": "Product 1",
+                "Price": 12.30
+            },
+            {
+                "Id": 2,
+                "Name": "Product 2",
+                "Price": 52.23
+            },
+            {
+                "Id": 3,
+                "Name": "Product 3",
+                "Price": 42.12
+            }
+        ]
+    }
+]
